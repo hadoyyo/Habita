@@ -1,7 +1,7 @@
 # Habita - iOS Habit Tracker App
 
 <div align="center">
-  <img width="40%" src="./ss/logo.png"/>
+  <img width="30%" src="./ss/logo.png"/>
 </div>
 
 ## Table of Contents
