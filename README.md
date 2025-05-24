@@ -51,9 +51,9 @@ You will need a macOS computer with Xcode installed to run the application.
 6. Install and open the app.
 
 ## Screenshots
-<img src="./ss/ss1.png" width="49%"/> <img src="./ss/ss2.png" width="49%"/>
-<img src="./ss/ss3.png" width="49%"/> <img src="./ss/ss4.png" width="49%"/>
-<img src="./ss/ss5.png" width="49%"/> <img src="./ss/ss6.png" width="49%"/>
-<img src="./ss/ss7.png" width="49%"/> <img src="./ss/ss8.png" width="49%"/>
-<img src="./ss/ss9.png" width="49%"/> <img src="./ss/ss10.png" width="49%"/>
+<img src="./ss/ss1.PNG" width="49%"/> <img src="./ss/ss2.PNG" width="49%"/>
+<img src="./ss/ss3.PNG" width="49%"/> <img src="./ss/ss4.PNG" width="49%"/>
+<img src="./ss/ss5.PNG" width="49%"/> <img src="./ss/ss6.png" width="49%"/>
+<img src="./ss/ss7.PNG" width="49%"/> <img src="./ss/ss8.PNG" width="49%"/>
+<img src="./ss/ss9.PNG" width="49%"/> <img src="./ss/ss10.PNG" width="49%"/>
 
