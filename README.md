@@ -18,7 +18,6 @@ Habita is an iOS app designed for tracking and managing habits, helping users ac
 > The app is only available in the English language version!
 
 ## Features
-
 - 🏠 Main view displaying habits as a list and allowing you to log their completion over the past week
 - ✅ 3 types of habits to customize the app to your needs (qualitative, quantitative and scalable)
 - 🔥 Streak counter tracking how many days in a row you’ve successfully completed each habit
